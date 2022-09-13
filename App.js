@@ -1,10 +1,8 @@
-import React from "react";
-import SearchScreen from "./src/screens/SearchScreen";
+import React from 'react';
+import SearchScreen from './src/screens/SearchScreen';
 
 const App = () => {
-  return(
-   <SearchScreen />
-  )
-}
+  return <SearchScreen />;
+};
 
 export default App;
